@@ -12,8 +12,12 @@ Sources of Explanations and Abbreviaions:
 Formatting available:
 - [x] Bold
 - [x] Italic
-- [x] Footnoe
+- [x] Footnote
 - [x] This Abbreviation Style (TAS)
 
 Filetypes:
 - [x] LaTeX
+
+Source word dictionary:
+- [x] word_freq
+- [ ] External files
