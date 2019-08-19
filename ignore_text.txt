@@ -1,0 +1,3 @@
+xaxis yaxis subfigure pydata nopython nogil fastmath ndarrays recarrays astype timeit
+lstlisting subsec tabularx tableofcontents subcaption specgrid
+subselection strided 

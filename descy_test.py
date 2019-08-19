@@ -1,5 +1,8 @@
-import descy
+from descy import descy
 
 testfile = 'thesis.tex'
+descfile = 'descriptions.json'
 
-descy.descy(testfile, description_file='', freq_cutoff=0.0, bold=True, italic=False, debug=True)
+d = descy(description_file=descfile, freq_cutoff=0.0, bold=True, italic=False, debug=True,
+          save_defs=True)
+d.run(testfile)
